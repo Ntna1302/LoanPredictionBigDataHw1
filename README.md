@@ -72,4 +72,4 @@ Ensure you have **Visual Studio Code (VS Code)** installed along with the **Pyth
 
 ## Contact
 
-If you have any issues or questions, feel free to reach out with us on [Github](https://github.com/Shwooshie/LoanPredictionAI/tree/main)!
+If you have any issues or questions, feel free to reach out with us on [Github](https://github.com/Ntna1302/LoanPredictionBigDataHw1)!
